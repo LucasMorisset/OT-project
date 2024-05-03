@@ -11,3 +11,6 @@ https://arxiv.org/abs/2106.01954
 
 
 https://arxiv.org/abs/1609.07152
+
+
+https://github.com/iamalexkorotin/Wasserstein2Benchmark/blob/main/src/metrics.py
